@@ -4,7 +4,7 @@ Jargone is [a bookmarklet](http://lgss.github.io/jargone/install.html) for highl
 
 ##Installation
 
-Follow the two step [installation instructions](http://lgss.github.io/jargone/)
+Follow the two step [installation instructions](http://lgss.github.io/jargone/install.html)
 
 ##Building
 
